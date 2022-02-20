@@ -1,5 +1,5 @@
 # Express-Base-Server
-Base express.js server without middleware.
+Base express.js server running on port 5000 without middleware.
 
 ## Packages
 1. [Express.js](https://expressjs.com/)
