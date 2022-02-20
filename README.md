@@ -1,10 +1,14 @@
 # Express-Base-Server
 Base express.js server without middleware.
-__________________________________________
-|-------------INSTALLATION---------------|
-| 1. Clone repository                    |
-| 2. Open Terminal                       |
-| 3. CD to Directory                     |
-| 4. Run "npm install"                   |
-| 5. Run "nodemon dev" to start          |
-|________________________________________|
+
+## Packages
+1. Express.js
+2. Nodemon
+
+
+## Installation
+1. Clone this repository to your local machine.
+2. Open terminal and navigate to the directory.
+3. Run "npm install".
+4. After install finishes, run "npm run dev".
+5. CTRL + C to manually stop the running server.
